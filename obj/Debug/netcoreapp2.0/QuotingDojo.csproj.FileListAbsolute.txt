@@ -1,0 +1,10 @@
+C:\Users\S\Google Drive\CSharp\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.deps.json
+C:\Users\S\Google Drive\CSharp\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.json
+C:\Users\S\Google Drive\CSharp\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.dev.json
+C:\Users\S\Google Drive\CSharp\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\S\Google Drive\CSharp\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.pdb
+C:\Users\S\Google Drive\CSharp\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.csproj.CoreCompileInputs.cache
+C:\Users\S\Google Drive\CSharp\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfoInputs.cache
+C:\Users\S\Google Drive\CSharp\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfo.cs
+C:\Users\S\Google Drive\CSharp\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\S\Google Drive\CSharp\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.pdb
