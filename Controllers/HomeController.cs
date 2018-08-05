@@ -30,8 +30,7 @@ namespace QuotingDojo.Controllers
         public IActionResult Quotes()
         {
             ViewData["Message"] = "Your contact page.";
-            string query = "SELECT * FROM userquotes";
-            List<Dictionary<string, object>> AllUsers = DbConnector.Query("SELECT * FROM userquotes");
+            List<Dictionary<string, object>> AllUsers = DbConnector.Query("SELECT * FROM userquotes ORDER BY createdat DESC");
             ViewBag.AllUsers = AllUsers;
             return View();
         }
