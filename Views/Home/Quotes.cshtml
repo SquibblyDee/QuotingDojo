@@ -2,4 +2,11 @@
     ViewData["Title"] = "Contact";
 }
 <h1>Here are the awesome quotes!</h1>
-
+@foreach(var user in ViewBag.AllUsers)
+{
+    <div class="quote">
+        <h2><b>"@user["Quote"]"</b></h2>
+        <h2><i>-@user["Name"] at @user["CreatedAt"].ToString("h:mm tt MMMM dd yyyy")</i></h2>
+        <hr>
+    </div>
+}
